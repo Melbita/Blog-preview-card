@@ -21,8 +21,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repo URL: [Code Repository](https://github.com/Melbita/Blog-preview-card)
+- Live Site URL: [Live Site](https://melbita.github.io/Blog-preview-card/)
 
 ## My process
 
